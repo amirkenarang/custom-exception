@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "custome-exception": {
+      "type": "library",
+      "root": "libs/custome-exception",
+      "entryFile": "index",
+      "sourceRoot": "libs/custome-exception/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/custome-exception/tsconfig.lib.json"
+      }
+    }
+  },
+  "compilerOptions": {
+    "webpack": true
+  }
+}
